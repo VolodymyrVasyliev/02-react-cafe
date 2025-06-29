@@ -4,6 +4,7 @@ import VoteStats from "../VoteStats/VoteStats";
 import Notification from "../Notification/Notification";
 import { useState } from "react";
 import type { VoteType, Votse } from "../../types/votes";
+import "modern-normalize";
 import css from "./App.module.css";
 
 export default function App() {
